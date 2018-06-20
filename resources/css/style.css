@@ -84,9 +84,20 @@ h2, h4 {
 img {
   height: 200px;
   width: 300px;
-  padding-bottom: 10px;
+}
+
+p.textstore {
+  margin-top: 10px;
 }
 
 .img1, .img2, .img3, .img4, .img5 {
   padding: 15px;
+}
+
+.locations.container {
+  display: flex;
+  margin: auto;
+  width: 1200px;
+  height: 500px;
+  background-image: url("../../resources/images/img-locations-background.jpg");
 }
