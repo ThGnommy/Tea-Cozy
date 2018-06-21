@@ -124,10 +124,10 @@ p.textstore {
   width: 300px;
   height: 300px;
   display: flex;
-  padding: 10px;
   flex-direction: column;
   background-color: black;
   margin: 0 20px;
+  padding: 10px;
 }
 
 .contact {
