@@ -65,6 +65,10 @@ h2, h3, h4 {
   padding: 10px 0;
 }
 
+p {
+  margin: 22px;
+}
+
 .center {
   background-color: black;
 }
@@ -125,6 +129,15 @@ p.textstore {
   margin: 0 20px;
 }
 
-p {
-  margin: 22px;
+.contact {
+  display: flex;
+  height: 200px;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.copyright{
+  text-align: left;
+  margin-left: 20px;
+  padding: 30px 0;
 }
